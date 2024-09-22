@@ -20,4 +20,5 @@ function inverterPalavra(string){
     alert(`a palavra invertida fica: ${palavraInvertida}`)
 }
 
+// aqui a função está sendo chamada tendo a palavra que o usuário digitou como parâmetro
 inverterPalavra(palavra);
